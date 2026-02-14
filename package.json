@@ -1,0 +1,8 @@
+{
+  "name": "meu-repositorio-midia",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node gerar_index.js"
+  }
+}
+
